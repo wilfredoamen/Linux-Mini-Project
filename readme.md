@@ -5,7 +5,7 @@ This is a step-by-step process on how to launch an AWS EC2 instance running Ubun
 ## Prerequisites
 - **AWS Account**: Access to the AWS Management Console.
 - **Key Pair**: An existing key pair.
-- **SSH Client**: Terminal (Linux/Mac) or PuTTY (Windows).
+- **SSH Client**: Terminal (Linux/Mac) or PuTTY, MobaXterm (Windows).
 
 
 ## Creating an AWS EC2 Instance
